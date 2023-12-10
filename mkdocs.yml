@@ -1,0 +1,7 @@
+site_name: Finnland
+theme: readthedocs
+repo_url: https://github.com/FriedrichVoelker/finnland-wiki
+site_description: Wiki für eine Bildungsreise nach Finnland
+#nav:
+#  - Startseite: index.md
+#  - Wetter: general/weather.md
