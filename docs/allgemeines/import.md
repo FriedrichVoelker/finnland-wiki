@@ -13,7 +13,8 @@ Fleisch- oder Milcherzeugnisse könnent mitgeführt werden, solange sie für den
 
 Personen unter 18 Jahren dürfen **keinen** Alkohol einführen. Personen unter 20 Jahren dürfen nur leicht Alkoholische Getränke einführen
 
-Als Eigenbedarf für Personen ab 18 Jahren dürfen
+Als Eigenbedarf für Personen ab 18 Jahren dürfen  
+
 - 10 Liter Spirituosen (z. B. Whisky oder Gin)
 - 20 Liter Mit Alkohol angereicherter Wein (wie Sherry oder Portwein)
 - 90 Liter (davon höchstens 60 Liter Schaumwein) Wein
@@ -27,6 +28,7 @@ aus anderen Mitgliedstaaten der Europäischen Union in die Republik Finnland ein
 
 Personen unter 18 Jahren dürfen keine **Tabakprodukte** einführen.
 Wenn keine Warnung auf Finnisch **und** Schwedisch auf der Verpackung steht dürfen als Eigenbedarf für Personen ab 18 Jahren
+
 - 250g Tabak
 - 200 Zigaretten
 - 100 Zigarrilos
